@@ -1,0 +1,34 @@
+### Typography:
+      ~~ variant: h1-h6, subtitle1, subtitle2, body1, body2, button, ...
+      ~~ align: center...
+      ~~ color: textPrimary, textSecondary
+      ~~ gutterBottom (a boolean type): add some margin to bottom; by default false
+      ~~ paragraph: tells that it is a paragraph
+
+### AppBar: Navigation bar
+
+### Card
+
+### CardActions
+
+
+###CardContent
+
+
+###CardMedia
+
+###CssBaseline: Default styling; <CssBaseline /> self closing tag
+
+###Grid: implements flex box:
+     ~~container: gives flex box property
+       ~~
+
+###Toolbar: like a div bar running 100% width with default color blue.
+    ~~ position: relative
+
+###Container: to contain different parts of UI
+    ~~ maxWidth: sm...
+
+
+### Button:
+    ~~ variant: text [hover but no border]; contained [colorFilled]; outlined[only bordered]
